@@ -1,0 +1,16 @@
+# Ignore Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# VSCode settings (if you're using VSCode)
+.vscode/
+.idea/
+
+# Virtual environments
+env/
+venv/
+*.egg-info/
+venv
+
+results/
